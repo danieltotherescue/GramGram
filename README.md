@@ -11,7 +11,7 @@ Look around you.  Singing telegrams have gone the way of the buffalo. People fav
 ![](assets/IMG_1593.JPG)
 
 ###ERD
-![](assets/Gram-Gram-ERD.pdf)
+![](assets/Gram-Gram-ERD.png)
 
 
 Technologies to be used:
