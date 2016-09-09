@@ -42,14 +42,13 @@ BE - Models -> Controllers -> config
 FE - Routes -> services/factories -> controllers -> templates
 
     **Route**          **Needs Auth?**     
---- ------------------ -----------------
-1   Route 1            yes
-2   Route 2            no                            
-3   Route              yes                            
-4   Route              no                            
-5   Route              yes              
-6   Route              yes              
---- ------------------ -----------------
+# | Route | Needs Auth
+:-- | :-- | :--
+1 | Route 1 | yes
+2 | Route 2 | no                            
+3 | Route   | no                            
+4 | Route   | no                           
+5 | Route   | yes             
 
 ###Trello link:
 User stories up the wazoo, complete with Wireframes and ERDs: https://trello.com/b/5lzakbjQ/project-4
