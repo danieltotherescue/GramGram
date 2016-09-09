@@ -11,7 +11,7 @@ Look around you.  Singing telegrams have gone the way of the buffalo. People fav
 ![](assets/IMG_1593.JPG)
 
 ###ERD
-![](assets/GramGram-ERD.jpg)
+![](assets/GramGram-ERD.png)
 
 
 ###Screenshot:
@@ -19,7 +19,9 @@ Look around you.  Singing telegrams have gone the way of the buffalo. People fav
 
 
 ###Explanations of the technologies and concepts used:
-Computers, Querty keyboard arrangement, Javascript, AngularJS, MongoDB, NodeJS, Express, Bootstrap, HTML5, Electricity, Youtube API, Angular Auth with Jwts, Central Air
+Javascript, AngularJS, MongoDB, NodeJS, Express, Bootstrap, HTML5, CSS, Electricity, Angular Auth with Jwts, Central Air, ng-youtube-embed.
+
+For video, used: https://github.com/brandly/angular-youtube-embed
 
 
 ###General Approach Taken:
@@ -41,7 +43,7 @@ FE - Routes -> services/factories -> controllers -> templates
 
     **Route**          **Needs Auth?**     
 --- ------------------ -----------------
-1   Route 1            yes                            
+1   Route 1            yes
 2   Route 2            no                            
 3   Route              yes                            
 4   Route              no                            
