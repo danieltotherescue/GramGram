@@ -15,7 +15,9 @@ Look around you.  Singing telegrams have gone the way of the buffalo. People fav
 
 
 ###Screenshot:
-
+![](assets/GramGramHomepage.png)
+![](assets/GramGramSelectMsg.png)
+![](assets/GramGramCompletedMsgs.png)
 
 
 ###Explanations of the technologies and concepts used:
@@ -41,8 +43,8 @@ Working with Jwts was a challenge and proved to be more time consuming than hope
 BE - Models -> Controllers -> config
 FE - Routes -> services/factories -> controllers -> templates
 
-    **Route**          **Needs Auth?**     
-# | Route | Needs Auth
+
+| Route | Needs Auth
 :-- | :-- | :--
 1 | Route 1 | yes
 2 | Route 2 | no                            
